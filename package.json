@@ -1,0 +1,27 @@
+{
+  "name": "meslo",
+  "version": "1.0.0",
+  "description": "Meslo LG is a customized version of Apple’s Menlo-Regular font (which is a customized Bitstream Vera Sans Mono).",
+  "main": "meslo.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r0sa-bio-digital/meslo.git"
+  },
+  "keywords": [
+    "font",
+    "meslo",
+    "menlo",
+    "monospace",
+    "apple",
+    "devtools"
+  ],
+  "author": "André Berg",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/r0sa-bio-digital/meslo/issues"
+  },
+  "homepage": "https://github.com/r0sa-bio-digital/meslo#readme"
+}
